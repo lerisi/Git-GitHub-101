@@ -1,4 +1,4 @@
-# Hello World Animation ✨
+# Hello World Animation ✨ by lerisi
 
 โปรแกรม **Hello, World!** แบบ Animation สวยๆ เขียนด้วย Python + Tkinter ในไฟล์เดียว
 ไม่ต้องติดตั้งไลบรารีเพิ่มเติม ใช้แค่ standard library ของ Python
